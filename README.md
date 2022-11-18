@@ -1,8 +1,8 @@
 ## Hello 👋
 
 - 🔭 I’m currently working on UWP Booru browser app
-- 🌱 I’m currently learning a lot
-- ⚡ Fun fact: you can peel potatoes in washing machine 🤓
+- 🌱 It looks like I am currently learning quite a bit of new things 👍
+- 🥔 Fun fact: you can peel potatoes in washing machine 🤓
 
 ### Some of my skills
 * ⌨️ C# + .NET, Java
